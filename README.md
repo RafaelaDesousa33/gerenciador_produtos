@@ -63,3 +63,5 @@ Adicionar testes automatizados para as funcionalidades principais.
 
 Melhorar a experiência do usuário com menus mais interativos.
 
+Fique à vontade para abrir uma issue ou entrar em contato! Estou sempre aberta a aprimorar minhas habilidades e aprender novas ideias do mercado.
+
